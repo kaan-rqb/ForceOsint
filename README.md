@@ -1,0 +1,2 @@
+# ForceOsint
+Eğitim amaçli
